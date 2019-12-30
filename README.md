@@ -1,7 +1,7 @@
 # Floating-Amp
 Simple Max For Live patch which implements the concept of unquantized amplitude variations.
 
-![ScreenShot](screenshot.jpg)
+<img src="https://github.com/stefanostev/Floating-Amp/blob/master/screenshot.jpg" width="500">
 
 This patch was created to evolve pads, drones and any kind of long sustained sound throughout time, but interesting results may come out of applying it to any kind of different dynamics.
 
