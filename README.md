@@ -1,4 +1,4 @@
-# Floating-Amp
+# Floating Amp
 Simple Max For Live patch which implements the concept of unquantized amplitude variations.
 
 <img src="https://github.com/stefanostev/Floating-Amp/blob/master/screenshot.jpg" width="500">
