@@ -12,13 +12,13 @@ The concept is pretty straightforward: two graphs allow the user to draw indepen
 The button `SYNC` allows the relative graph to send a global trigger for both envelopes at the end of its cycle. The flashing led button is clickable and re-triggers the corresponding envelope, whilst `RESET` re-triggers both at once. 
 `MIX` controls the balance between the dry and the wet signal. 12 slots of memory are available to store and recall any particular settings of the graphs.
 
-The "multi-outputs" version has an additional toggle button `MULTI` which allows audio routing of individual channels to separate tracks.
+`MULTI` routes each envelope to a separate audio channel.
 
-For this version is required Ableton Live 10 or higher.
-To listen to separate signals, activate `MULTI`, open a new audio track in Ableton Live then use the Audio From dropdown menù to choose the track where the device is located and the corresponding input channels.
+Ableton Live 10 or higher required.
+To listen to separate signals, activate `MULTI`, open a new audio track in Ableton Live then use the `Audio` From dropdown menù to choose the track where the device is located and the corresponding input channels.
 
 Live only accepts stereo channels for internal routing:
-- L channel goes to channels 3/4;
-- R channel goes to channels 5/6.
+- `L` channel goes to channels `3/4`;
+- `R` channel goes to channels `5/6`.
 
 The dry signal is always output from the device's main channels.
