@@ -25,6 +25,7 @@ The dry signal is always output from the device's main channels.
 
 
 
-# TO DO:
+To do:
 - implement presets recall (currently they're more of a snapshot kind and are not stored into the Live Set);
-- adding refined Audio Rate controls for Cycle.
+- adding refined Audio Rate controls for Cycle;
+- gen~ implementation.
