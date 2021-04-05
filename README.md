@@ -1,7 +1,7 @@
 # Floating Amp
 Simple Max For Live patch which implements the concept of unquantized amplitude variations.
 
-<img src="https://github.com/stefanostev/Floating-Amp/blob/master/screenshot2021.jpg" width="100%">
+<img src="https://github.com/stefanostev/Floating-Amp/blob/master/screen050421.jpg" width="100%">
 
 This patch was created to evolve pads, drones and any kind of long sustained sound throughout time, but interesting results may come out by applying it to any kind of different dynamics.
 
@@ -15,7 +15,7 @@ The button `SYNC` allows the relative graph to send a global trigger for both en
 `MULTI` routes each envelope to a separate audio channel.
 
 Ableton Live 10 or higher required.
-To listen to separate signals, activate `MULTI`, open a new audio track in Ableton Live then use the `Audio` From dropdown menù to choose the track where the device is located and the corresponding input channels.
+To listen to separate signals, activate `MULTI`, open a new audio track in Ableton Live then use the `Audio From` dropdown menu to choose the track where the device is located and the corresponding input channels. When `MULTI` is on, the interface theme changes in order to make the selected mode clearly visible.
 
 Live only accepts stereo channels for internal routing:
 - `L` channel goes to channels `3/4`;
