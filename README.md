@@ -22,3 +22,9 @@ Live only accepts stereo channels for internal routing:
 - `R` channel goes to channels `5/6`.
 
 The dry signal is always output from the device's main channels.
+
+
+
+# TO DO:
+- implement presets recall (currently they're more of a snapshot kind and are not stored into the Live Set);
+- adding refined Audio Rate controls for Cycle.
